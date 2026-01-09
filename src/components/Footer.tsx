@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import { Heart, Instagram, Palette, Phone } from 'lucide-react'
+import { Heart, Instagram } from 'lucide-react'
 
 const Footer = () => {
   const currentYear = new Date().getFullYear()
